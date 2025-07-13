@@ -1,1 +1,2 @@
-# NRGS-Net
+# Night Road Glare Dataset (NRGD)
+NRGD is collected by capturing videos in real nighttime road and street scenarios us-ing a vivo S19 smartphone with a 0.6× ultra-wide-angle setting to capture glare re-gions caused by strong light sources such as headlights and streetlights, ensuring diversity and realism in the captured scenes. The videos are recorded at a resolution of 1920×1080 to maintain clarity while facilitating subsequent processing and frame extraction. To obtain a uniform and diverse frame distribution, frames are extracted at 3-second intervals, resulting in approximately 500 images for model training and evaluation. The dataset will be released soon.
